@@ -1,0 +1,6 @@
+echo“#LI”>> README.md 
+git init 
+git add README.md 
+git commit -m“first commit” 
+git remote add origin https://github.com/15666669758/LI.git
+ git push -u origin master
